@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#E57373" /> <!-- Default color, change based on status -->
+    <corners android:radius="8dp" />
+</shape>
+<!--    To Do: #E57373 (red)-->
+<!--    In Progress: #FFF59D (yellow)-->
+<!--    Done: #81C784 (green)-->
